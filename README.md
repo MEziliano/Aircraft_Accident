@@ -1,12 +1,12 @@
 # Aero
 
-![GitHub last commit](https://img.shields.io/github/last-commit/MEziliano/regressao-internacao_SUS?style=for-the-badge)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/MEziliano/regressao-internacao_SUS?style=for-the-badge)
-[![GitHub issues](https://img.shields.io/github/issues/MEziliano/regressao-internacao_SUS?style=for-the-badge)](https://github.com/MEziliano/regressao-internacao_SUS/issues)
+![GitHub last commit](https://img.shields.io/github/last-commit/MEziliano/Aero?style=for-the-badge)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/MEziliano/Aero?style=for-the-badge)
+[![GitHub issues](https://img.shields.io/github/issues/MEziliano/Aero?style=for-the-badge)](https://github.com/MEziliano/regressao-internacao_SUS/issues)
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 <!--![GitHub top language](https://img.shields.io/github/languages/top/MEziliano/regressao-internacao_SUS?style=for-the-badge)-->
 
-
+Projeto sobre acidentes aéreos!
 
 <!-- <ahref><img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" target="_blank"></a> -->
 <ahref><img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" target="_blank"></a>

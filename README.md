@@ -7,8 +7,11 @@
 <!--![GitHub top language](https://img.shields.io/github/languages/top/MEziliano/regressao-internacao_SUS?style=for-the-badge)-->
 
 Projeto sobre acidentes aéreos!
+<h3> Tecnologias utilizadas </h3>
 
-<!-- <ahref><img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" target="_blank"></a> -->
+
+
+<!-- <ahref><img src="<https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" target="_blank"></a> -->
 <ahref><img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" target="_blank"></a>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" target="_blank">
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" target="_blank">

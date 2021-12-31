@@ -7,9 +7,10 @@
 <!--![GitHub top language](https://img.shields.io/github/languages/top/MEziliano/regressao-internacao_SUS?style=for-the-badge)-->
 
 Projeto sobre acidentes aéreos!
+
+Preciso atulizar alguns notebooks, criar algumas pipelines e criar um deploy no streamlit!
+
 <h3> Tecnologias utilizadas </h3>
-
-
 
 <!-- <ahref><img src="<https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" target="_blank"></a> -->
 <ahref><img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" target="_blank"></a>

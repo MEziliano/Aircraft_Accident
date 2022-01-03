@@ -6,7 +6,7 @@
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 <!--![GitHub top language](https://img.shields.io/github/languages/top/MEziliano/regressao-internacao_SUS?style=for-the-badge)-->
 
-Projeto sobre acidentes aéreos!
+Projeto sobre acidentes aéreos! <h3> :small_airplane: :cloud: :flight_departure: </h3>
 
 Preciso atulizar alguns notebooks, criar algumas pipelines e criar um deploy no streamlit!
 
@@ -17,6 +17,8 @@ São quarto banco de dados, sendo eles:
 * ocorrencia tipo;
 * fator contribuinte. 
 
+
+O ideal é criar um arquivo único em .py para a formatação do pipeline como um todo. Após toda a etapa inicial de análise explortatóra dos dados, será necessário treinar dos modelos de inteligência artifical. Um para a detecção de acidentes fatais e outro modelo para a predição do número de vítimas. A melhor de fazer essa etapa será utilizando arquivos separados e por fim utlizando alguma biblioteca como o pickle ou joblib transportar os melhores modelos para o deploy do streamlit!
 
 <h3> Tecnologias utilizadas </h3>
 

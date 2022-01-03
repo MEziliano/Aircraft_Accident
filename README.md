@@ -11,6 +11,12 @@ Projeto sobre acidentes aéreos!
 Preciso atulizar alguns notebooks, criar algumas pipelines e criar um deploy no streamlit!
 
 A ideia inicial é utilizar um notebook para cada banco de dados e ao final elaborar uma pipeline para cada um. Após essa etapa é preciso fazer um merge entre os dados e por fim treinar o modelos. 
+São quarto banco de dados, sendo eles:
+* aeronave; 
+* ocorrência;
+* ocorrencia tipo;
+* fator contribuinte. 
+
 
 <h3> Tecnologias utilizadas </h3>
 

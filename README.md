@@ -21,9 +21,11 @@ São quarto banco de dados, sendo eles:
 O ideal é criar um arquivo único em .py para a formatação do pipeline como um todo. Após toda a etapa inicial de análise explortatóra dos dados, será necessário treinar dos modelos de inteligência artifical. Um para a detecção de acidentes fatais e outro modelo para a predição do número de vítimas. A melhor de fazer essa etapa será utilizando arquivos separados e por fim utlizando alguma biblioteca como o pickle ou joblib transportar os melhores modelos para o deploy do streamlit!
 
 
-<div>
 <h3> Tecnologias utilizadas </h3>
 
+
+
+<div>
 <ahref><img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" target="_blank"></a>
 <ahref><img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" target="_blank"></a>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" target="_blank">

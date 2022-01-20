@@ -1,4 +1,4 @@
-# Aero
+<h1 align="center"> Aero </h1>
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/MEziliano/Aero?style=for-the-badge)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/MEziliano/Aero?style=for-the-badge)
@@ -6,7 +6,7 @@
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 <!--![GitHub top language](https://img.shields.io/github/languages/top/MEziliano/regressao-internacao_SUS?style=for-the-badge)-->
 
-Projeto sobre acidentes aéreos! <h3> :small_airplane: :cloud: :flight_departure: </h3>
+<h3> Project about aircraft accident :small_airplane: :cloud: :flight_departure: </h3>
 
 Preciso atulizar alguns notebooks, criar algumas pipelines e criar um deploy no streamlit!
 

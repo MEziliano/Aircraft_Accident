@@ -1,12 +1,15 @@
-<h1 align="center"> Aero </h1>
+<h1 align="center"> Aero :small_airplane: :cloud: :flight_departure:</h1>
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/MEziliano/Aero?style=for-the-badge)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/MEziliano/Aero?style=for-the-badge)
 [![GitHub issues](https://img.shields.io/github/issues/MEziliano/Aero?style=for-the-badge)](https://github.com/MEziliano/regressao-internacao_SUS/issues)
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
-<!--![GitHub top language](https://img.shields.io/github/languages/top/MEziliano/regressao-internacao_SUS?style=for-the-badge)-->
+![GitHub top language](https://img.shields.io/github/languages/top/MEziliano/Aero?style=for-the-badge)
 
-<h3> Project about aircraft accident :small_airplane: :cloud: :flight_departure: </h3>
+Project about aircraft accident
+
+This project contains many datasets, spreed as csv files. The main idea of this project is explore each database before merge all important columns in one and made a regression and a classification model. Regression to predict the number of victms and a classification to predict if a crash will be or not fatal. 
+
 
 Preciso atulizar alguns notebooks, criar algumas pipelines e criar um deploy no streamlit!
 
@@ -22,7 +25,6 @@ O ideal é criar um arquivo único em .py para a formatação do pipeline como u
 
 
 ## Used in this project
-
 
 <div>
 <ahref><img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" target="_blank"></a>
